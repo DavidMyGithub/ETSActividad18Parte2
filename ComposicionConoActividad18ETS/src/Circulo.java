@@ -1,4 +1,4 @@
-
+//Esto es una clase de prueba
 
 // TODO: Auto-generated Javadoc
 /**
